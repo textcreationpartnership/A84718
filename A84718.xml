@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The forme of the commission for a new valuation. 4. August, 1649</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84718</idno>
+            <idno type="STC">Wing F1573</idno>
+            <idno type="STC">ESTC R230264</idno>
+            <idno type="EEBO-CITATION">99899566</idno>
+            <idno type="PROQUEST">99899566</idno>
+            <idno type="VID">153948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2391:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The forme of the commission for a new valuation. 4. August, 1649</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most excellent Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153948:1"/>
+            <pb facs="tcp:153948:1"/>
+            <p> THE FORME OF THE COMMISSION FOR A NEW VALUATION.</p>
+            <p>4. <hi>Auguſt,</hi> 1649.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by EVAN TYLER, Printer to the Kings moſt Excellent MAjESTIE, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153948:2"/>
+            <head>4. <hi>Auguſt,</hi> 1649.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Eſtates of Parliament taking unto their conſideration the many complaints &amp; grie<g ref="char:EOLhyphen"/>vances within the Kingdom, againſt the un<g ref="char:EOLhyphen"/>equality that hath been in bearing publick burthens, &amp; being deſirous that all the ſhires of the Kingdome, and every perſon within the ſame, may bear an equall proportion, according to the true worth of their Eſtates. Therefore they do nominate and appoint for the Sheriffdom of or either of them conveeners for the firſt meeting, and which Commiſſioners for the ſaid Shire ſhall meet on Thurſ<g ref="char:EOLhyphen"/>day the thirtieth of <hi>August</hi> next, or ſooner, as the Conveen<g ref="char:EOLhyphen"/>ers ſhall appoint, and chooſe a Clerk and other members of Court neceſſary, and the Eſtates of Parliament doe Ordaine the ſaid conveeners, or either of them to take the ſolemne oaths of the ſaids Commiſſioners, that they ſhall uſe their beſt endeavours for a right and true information of the whole rents of the ſaid Shire, and that they ſhall proceed faithfully and impartially in proſecuting their Commiſſion, and the Inſtructions relating thereunto: With power to the ſaid Commiſſioners, or the major part of them as a <hi>Quorum,</hi> and if the major part exceed five, five to be a <hi>Quorum,</hi> to rectifie &amp; improve to the beſt avail the former valuations; And for that effect, to direct our ſummonds againſt ſuch perſon or perſons within the Shire, as they ſhall think fit to compeir before them, and to declare upon Oath the true Rents of any Pa<g ref="char:EOLhyphen"/>roch or place of the Shire, according to their knowledge, and in caſe any ſhall contemn or refuſe to compeir and depone, to
+<pb n="3" facs="tcp:153948:2"/> impriſon or fyne them into a pecuniall ſumme, not exceeding one hundred pounds, and to take all ſuch further Information, as they ſhall find neceſſary for getting knowledge of the true worth of the whole rents within the ſaid Shire, aſwell caſuall rent of all ſort, as conſtant rent in ſtock and teinds, and the true value and worth of every land and rent ſet in tak or Ren<g ref="char:EOLhyphen"/>tall, and what the true yeerly worth thereof is, by and attour the rentalled, or tak-duty thereof payable to the Maſter, (re<g ref="char:EOLhyphen"/>ſpect being had to the greſſum or entreſſe, if any was payed by the Takſmen or Rentaller at his entrie; And of all Few, or Tak-duties payable to any perſon, his Majeſties duties excep<g ref="char:EOLhyphen"/>ted) &amp; of al other caſualities paiable for ſtock, or teynd accord<g ref="char:EOLhyphen"/>ing to the table annexed. All which they are to value exactly, by converting the victuall into mony, according to the reſpe<g ref="char:EOLhyphen"/>ctive prices ſet down in the ſaid table, &amp; by converting caſuali<g ref="char:EOLhyphen"/>ties into mony, at the juſt rates which they give for the time in that Shire where the ſaid caſualities &amp; commodities are valued. Withpower likewiſe to the ſaid Commiſsioners, or the major part of them as the <hi>Quorum,</hi> and if the major part exceed five, five to be the <hi>Quorum,</hi> to take all former valuations into conſi<g ref="char:EOLhyphen"/>deration, and rectifie the ſame where they have been unjuſtly valued, and where they find that any perſon hath been under<g ref="char:EOLhyphen"/>valued, to augment the valuation of their rent to the true worth, and adde the ſame to the totall of the rent of the Shire, and thereby bring the whole rent of the Shire to the ful value, and alſo reduce the whole Shire to an equality and proportion among themſelves. And in the forming their report, the ſaid Commiſsioners ſhal ſet down a Roll for every Paroch, which in the firſt place ſhall contain the mony rent of the Paroch. Secondly, the quantity of the victuall payed in the Paroch, and the ſeverall ſpecies thereof; and what meaſure, and how much the ſame doth amount unto, being converted into mo<g ref="char:EOLhyphen"/>ny. Thirdly, the kind of caſualities or cuſtoms payed for ſtock, or teynd, the number thereof, and the price of each caſuality
+<pb n="4" facs="tcp:153948:3"/> diſtinctly, and how much the ſame doth extend to in whole, being converted into mony. Fourthly, the caſuall rent accord<g ref="char:EOLhyphen"/>ing to the table, &amp; what it doth extend to. Fiftly, the Few and Tak-duties, (his Majeſties excepted) and what the ſame doth extend to. Sixthly, the mortified rent, &amp; how paied in mony, victuall, or caſuality, and what the ſame doth amount to. Se<g ref="char:EOLhyphen"/>vently, the duties paied to his Majeſties Exchequer, &amp; the ſum thereof; And after the Roll of all the Paroches are ſet down, then they are to caſt up the total of the valuation of the whole Shire, by &amp; attour the mortified rent &amp; duties paied to the Ex<g ref="char:EOLhyphen"/>chequer, which are to be ſummed in an Article a part, and in a third Article they are to ſet down the totall of their former valuation, which is herewith delivered to the Commiſsioners for ilk Shire, under the Clerk Regiſters hand, and laſtly they are to ſet down what this preſent valuation to be made, doth exceed the former valuation; In all which, the form and pat<g ref="char:EOLhyphen"/>tern ſubjoyned, is to be obſerved. And the ſaid Commiſsio<g ref="char:EOLhyphen"/>ners are to ſubſcrive the Report formed as aforeſaid, and to deliver the ſame to the Clerk Regiſter or his Deputes, betwixt and the firſt of <hi>November</hi> next to come, and in caſe any Shire ſhall fail therein, or ſhall bring in a Report not agreeable to the Rules and Directions now preſcrived, they ſhall pay the halfe more of maintenance then they are appointed to pay by the preſent Act of Mainteance, ay &amp; while they produce &amp; report their valuations in manner before preſcrived, and if the failȝie ſhall be on the part of the valuers, or any of them; the reſt of the Shire ſhall have their releif off them. And further, the Co<g ref="char:EOLhyphen"/>miſsioners are to ſend one from each Shire with the ſaid valu<g ref="char:EOLhyphen"/>ations againſt the firſt of <hi>Novemb.</hi> which Commiſsioners ſhall meet with the Committee of Eſtates for comparing the ſaid valuations, and perfecting the ſame, that they may be a Rule for the future in impoſing all publick burthens according to an equal proportion, and if there be any difference which can<g ref="char:EOLhyphen"/>not be ſetled by the Committee of Eſtates, and the ſaids Com<g ref="char:EOLhyphen"/>miſsioners, that it be referred to the Parliament: And it is
+<pb n="5" facs="tcp:153948:3"/> hereby declared, that no reſpect ſhall be had to any valuation to be reported, that ſhall be under the totall of the former va<g ref="char:EOLhyphen"/>luation, which is herewith delivered to the Commiſsioners of ilk Shire by the Clerk Regiſter, <hi>Extractum.</hi>
+            </p>
+            <p>
+               <hi>The totall of the former valuation of this Shire is,—</hi>
+            </p>
+            <div type="part">
+               <head>Forme of the Report to be made by each Shire.</head>
+               <p>THe Roll of the Rent of the She<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iffdome of <hi>A.</hi> made and ſet down by the Commiſsioners under ſubſcriving, appointed for that effect by Act of the Eſtates of Parliament of this Kingdome, holden at <hi>Edinburgh</hi> the fourth of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> 1649. which Commiſsioners having met on the day of <hi>Auguſt</hi> laſt, and having judicially given their oathes to uſe their beſt endeavours for a right and true Information of the Rents of the whole Shire, and to proceed faithfully and impartially in proſecuting their Commiſsion, and Inſtructions relating thereunto, which they have care<g ref="char:EOLhyphen"/>fully performed in every point; After ſerious and mature deli<g ref="char:EOLhyphen"/>beration, they have made and ſet down the Roll following in Articles according to the number of the ſeverall Pariſhes within the ſaid Shire, and have caſt up the ſummes according to the direction of the Parliament.</p>
+               <p n="1">I. <hi>A. B.</hi> For himſelfe and remanent Heretor, Fewers, Life-Renters, proper Wood-ſetters, and others within the Pariſh, of their mony rent, doth extend to.</p>
+               <p n="2">II. Payed of wheat in the ſaid Pariſh Chalders, and Bolls according to the meaſure of <hi>Lynlithgow</hi> prick met, which being converted into mony at the price of for every Boll extends to Of Bear in the ſaid Pariſh Chalders and
+<pb n="6" facs="tcp:153948:4"/> Bolls according to the meaſure of <hi>Lynlith<g ref="char:EOLhyphen"/>gow</hi> prick met, which being converted into mony, at the price of for every Boll extends to</p>
+               <p>Of Meal in the ſaid Pariſh, &amp;c. as before concerning the Wheat and Beer.</p>
+               <p>Of Rye in the ſaid Pariſh, &amp;c.</p>
+               <p>Of Peaſe and Beans in the ſaid Pariſh, &amp;c.</p>
+               <p>Of Oats in the ſaid Pariſh, &amp;c.</p>
+               <q>
+                  <hi>The Summe of the price of the whole victuall, and money in each Pariſh, to be ſet down at length, and alſo in figures on the Mar<g ref="char:EOLhyphen"/>gine, on the right hand.</hi>
+               </q>
+               <p n="3">III. Payd of caſualities or cuſtomes in the ſaid Pariſh.</p>
+               <p n="4">IV. Payd in caſuall Rent, for Coal.</p>
+               <p>For Salt.</p>
+               <p>For Fiſhings.</p>
+               <p n="5">V. Payed in Few, and Tak-duties to other perſons beſide the duties payable to his Majeſty.</p>
+               <p n="6">VI. Payed in mortified Rent to the Miniſter and School<g ref="char:EOLhyphen"/>maſter, to the Colledge or hoſpital of in mony. Payed in victuall and here to ſet down the ſeve<g ref="char:EOLhyphen"/>rall ſpecies, the quantity and price, and the caſualities, if any be with the kind, number and price, and to convert the ſame into mony, as before
+<pb n="7" facs="tcp:153948:4"/> Summe of the mortified Rent of the Pariſh.</p>
+               <p n="7">VII. Payed to his Majeſties Exchequer in mony Payed in victuall or caſualities, which being converted into mony, extends to</p>
+               <p>The totall of the preſent valuation of this Shire, beſide the mortified Rent, and what is payed to the Exchequer ex<g ref="char:EOLhyphen"/>tends to</p>
+               <p>The mortified Rent, and what is paid to the Exchequer, ex<g ref="char:EOLhyphen"/>tends to</p>
+               <p>The totall of the former valuation of this Shire, extends to</p>
+               <p>The preſent valuation doth exceed the former.</p>
+            </div>
+            <div type="table_of_prices">
+               <head>Table of the prices of Victuall in the Reſpective Shires of the Kingdome</head>
+               <list>
+                  <item> THe Wheat generally throughout the Kingdom, of <hi>Lyn<g ref="char:EOLhyphen"/>lithgow</hi> meaſure, price of the Boll thereof. 6. l. 16. s. 8.</item>
+                  <item> Beer, Rye, Peaſe, of <hi>Lynlithgow</hi> meaſure in the Shire of <hi>Lith<g ref="char:EOLhyphen"/>gow, Edinburgh,</hi> and <hi>Haddington.</hi> 5. l. 6. s. 8.</item>
+                  <item> Oats and Meal there, of the meaſure foreſaid. 4. l. 13. s. 4.</item>
+                  <item> Beer, Peaſe, and Rye, of the foreſaid meaſure, in <hi>Teviodail, Merſe, Selkirk,</hi> and <hi>Lauderdail.</hi> 5. l.</item>
+                  <item> Oates and Meale there. 4. l. 6. s. 8.</item>
+                  <item> And becauſe <hi>Teviodail</hi> hath five furlots in their Boll, therefore the fourth part of five pound ought to be added to the price of their Bowl, which is, 6. l. 6. s.</item>
+                  <item> In <hi>Peibles, Lanerk, Air, Renfrew, Dumbartane,</hi> and <hi>Bute,</hi> the Beer, Peaſe, and Rye, of the foreſaid meaſure of <hi>Lynlithgow.</hi> 4. l. 13. s. 4.</item>
+                  <pb n="8" facs="tcp:153948:5"/>
+                  <item> And if the meaſure be more that it be augmented, conform, Meal, and Oats there. 4. l. 10. s.</item>
+                  <item> 
+                     <hi>Wigtoun,</hi> and <hi>Kirkcudbright,</hi> Beer, and Meal. 4. l. 16. s. 8.</item>
+                  <item> Of <hi>Lithgow</hi> meaſure in reſpect there ſingle Bowl, is a Boll and a halfe of <hi>Lithgow</hi> meaſure, and there double Boll, is three Bowls of <hi>Lithgow</hi> meaſure, and therefore to be pri<g ref="char:EOLhyphen"/>ced accordingly.</item>
+                  <item> 
+                     <hi>Dumfreis, Annandail,</hi> Beer &amp; Meal of <hi>Lithgow meaſure,</hi> 4. l. 16. s. 8</item>
+                  <item> And becauſe their Boll is two Bolls and a halfe of <hi>Lithgow</hi> meaſure, the ſame is to be priced accordingly.</item>
+                  <item> In <hi>Fyfe, Angus, Pearth, Clakmannan, Stirling, Kinros,</hi> Beer, Rye, and Peaſe, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Lithgow</hi> meaſure. 4. l. 16. s. 8.</item>
+                  <item> Meal, and Oats there of the ſaid meaſure; except <hi>Angus.</hi> 4. l. 5. s.</item>
+                  <item> And <hi>Angus</hi> Meal, 4. l. 10. s.</item>
+                  <item> Kincairdine, Elgine, Nairn, Innernes, Roſs, Cromarty, Sutherland,</item>
+                  <item> Beer, Peaſe, and Rye, of <hi>Lithgow</hi> meaſure. 4. l. 10. s.</item>
+                  <item> Meale and Oats there, except <hi>Kincairdine.</hi> 4. l. 10. s.</item>
+                  <item> Meal in <hi>Kincairdine,</hi> of the meaſure foreſaid. 4. l. 6. s. 8.</item>
+                  <item> 
+                     <hi>Aberdeen</hi> and <hi>Bamff,</hi> Beer of the meaſure foreſaid. 4. l. 6. s. 8.</item>
+                  <item> Meal and Oats there, of the meaſure foreſaid. 4. l.</item>
+                  <item> 
+                     <hi>Orkney</hi> and <hi>Carthnes</hi> Beer, 3. l. 10. s.</item>
+                  <item> Meal there of <hi>Lithgow</hi> meaſure. 4. l.</item>
+               </list>
+               <p>By Caſualities and Cuſtomes mentioned in the third Ar<g ref="char:EOLhyphen"/>ticle of the form of the Report, is to be underſtood <hi>Marts, Wedders, Lambs, Swine, Butter, Cheeſe, Oyle, Linnen cloath, Sal<g ref="char:EOLhyphen"/>mond,</hi> and <hi>Wooll.</hi>
+               </p>
+               <p>By Caſuall Rent mentioned in the fourth Article, is to be underſtood, <hi>Salt, Coale, Salmond-fiſhing,</hi> and other fiſhings <hi>in proprrtio,</hi> whereby there is yeerly benefit.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153948:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
